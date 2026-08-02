@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge&logo=scikitlearn">
 <img src="https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-red?style=for-the-badge&logo=tensorflow">
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws">
-</p>
 
 
 <p align="center">
