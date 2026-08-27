@@ -1,5 +1,5 @@
 # 🚀 DATA SCIENCE MASTERY JOURNEY   
-### Turning Raw Data into Intelligent Decisions 🤖📊   
+### Turning Raw Data into Intelligent Decisions 🤖📊    
 
 
 
