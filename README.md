@@ -28,7 +28,7 @@
 
 Welcome to the **Data Science Mastery Program** — a complete learning journey designed to transform beginners into industry-ready Data Science professionals.
 
-This program covers the complete lifecycle of data:
+This program covers the complete lifecycle of data::
 
 ```
 Raw Data
