@@ -24,7 +24,7 @@
 
 ---
 
-# 🌟 About The Journey
+# 🌟 About The Journey 
 
 Welcome to the **Data Science Mastery Program** — a complete learning journey designed to transform beginners into industry-ready Data Science professionals.
 
